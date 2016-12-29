@@ -12,6 +12,5 @@ int main(int argc, char *argv[]) {
   printf("If you can dream it, you can do it.\n");
   printf("When in Rome, do as the Romans do.\n");
   printf("A man is not finished when he's defeated, he's finished when he quits.\n");
-
   return 0;
 }
