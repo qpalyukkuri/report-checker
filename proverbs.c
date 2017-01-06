@@ -17,6 +17,7 @@ int main(int argc, char *argv[]) {
   printf("The greatest lesson in life is to know that even fools are right sometimes.\n");
   printf("You'll never find a rainbow if you're looking down.\n");
   printf("Be quick, but don't hurry. \n");
+  printf("In the middle of difficulty lies opportunity.\n");
 
   return 0;
 }
