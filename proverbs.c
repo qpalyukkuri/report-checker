@@ -12,6 +12,10 @@ int main(int argc, char *argv[]) {
   printf("If you can dream it, you can do it.\n");
   printf("When in Rome, do as the Romans do.\n");
   printf("A man is not finished when he's defeated, he's finished when he quits.\n");
+  printf("Success has ruined many a man.\n");
+  printf("Maintain the current situation is just go backwards. by Walt Disney\n");
+  printf("The greatest lesson in life is to know that even fools are right sometimes.\n");
   printf("You'll never find a rainbow if you're looking down.\n");
+
   return 0;
 }
