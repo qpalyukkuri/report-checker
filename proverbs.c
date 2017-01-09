@@ -19,5 +19,7 @@ int main(int argc, char *argv[]) {
   printf("Be quick, but don't hurry. \n");
   printf("In the middle of difficulty lies opportunity.\n");
 
+  printf("Keep looking. Don't settle.\n");
+
   return 0;
 }
