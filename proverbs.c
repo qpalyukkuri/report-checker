@@ -20,6 +20,7 @@ int main(int argc, char *argv[]) {
   printf("In the middle of difficulty lies opportunity.\n");
   printf("Keep looking. Don't settle.\n");
   printf("Peace begins with a smile.\n");
+  printf("The book of nature is written in the language of mathematics.\n");
 
   return 0;
 }
