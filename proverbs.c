@@ -18,6 +18,7 @@ int main(int argc, char *argv[]) {
   printf("You'll never find a rainbow if you're looking down.\n");
   printf("Be quick, but don't hurry. \n");
   printf("In the middle of difficulty lies opportunity.\n");
+  printf("A woman does not become interesting until she is over 40.\n");
 
   return 0;
 }
