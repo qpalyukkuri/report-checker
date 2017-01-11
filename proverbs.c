@@ -30,6 +30,7 @@ int main(int argc, char *argv[]) {
   printf("Living is not breathing but doing.\n");
   printf("Time is money.\n");
   printf("The early bird catches the worm.\n");
+  printf("One good turn deserves another.\n");
 
   return 0;
 }
