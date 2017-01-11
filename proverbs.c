@@ -25,6 +25,7 @@ int main(int argc, char *argv[]) {
   printf("Time is money.\n");
   printf("The book of nature is written in the language of mathematics.\n");
   printf("Move fast and break things.\n");
+  printf("A woman does not become interesting until she is over 40.\n");
 
   return 0;
 }
