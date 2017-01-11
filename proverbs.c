@@ -21,6 +21,7 @@ int main(int argc, char *argv[]) {
   printf("Keep looking. Don't settle.\n");
   printf("Peace begins with a smile.\n");
   printf("A man and a woman marry because both of them don’t know what to do with themselves.\n")
+  printf("Time is money.\n");  
 
   return 0;
 }
