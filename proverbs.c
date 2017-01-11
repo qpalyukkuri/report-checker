@@ -34,5 +34,7 @@ int main(int argc, char *argv[]) {
   printf("laugh and grow fat.\n")
   printf("Boys be ambitious.\n");
 
+  printf("If you can dream it, you can do it.\n");
+
   return 0;
 }
