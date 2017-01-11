@@ -23,6 +23,7 @@ int main(int argc, char *argv[]) {
   printf("A man and a woman marry because both of them don’t know what to do with themselves.\n")
   printf("Time is money.\n");  
   printf("Time is money.\n");
+  printf("The book of nature is written in the language of mathematics.\n");
 
   return 0;
 }
