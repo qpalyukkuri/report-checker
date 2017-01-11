@@ -29,6 +29,7 @@ int main(int argc, char *argv[]) {
   printf("He who moves not forward, goes backward.\n");
   printf("Living is not breathing but doing.\n");
   printf("Time is money.\n");
+  printf("The early bird catches the worm.\n");
 
   return 0;
 }
