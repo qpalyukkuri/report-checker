@@ -27,6 +27,7 @@ int main(int argc, char *argv[]) {
   printf("Move fast and break things.\n");
   printf("A woman does not become interesting until she is over 40.\n");
   printf("He who moves not forward, goes backward.\n");
+  printf("Living is not breathing but doing.\n");
 
   return 0;
 }
