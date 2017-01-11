@@ -33,8 +33,8 @@ int main(int argc, char *argv[]) {
   printf("One good turn deserves another.\n");
   printf("laugh and grow fat.\n")
   printf("Boys be ambitious.\n");
-
   printf("If you can dream it, you can do it.\n");
+  printf("Indecision is often worse than wrong action.\n");
 
   return 0;
 }
