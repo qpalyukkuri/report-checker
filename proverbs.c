@@ -20,6 +20,12 @@ int main(int argc, char *argv[]) {
   printf("In the middle of difficulty lies opportunity.\n");
   printf("Keep looking. Don't settle.\n");
   printf("Peace begins with a smile.\n");
+  printf("A man and a woman marry because both of them don’t know what to do with themselves.\n")
+  printf("Time is money.\n");  
+  printf("Time is money.\n");
+  printf("The book of nature is written in the language of mathematics.\n");
+  printf("Move fast and break things.\n");
+  printf("A woman does not become interesting until she is over 40.\n");
   printf("He who moves not forward, goes backward.\n");
 
   return 0;
