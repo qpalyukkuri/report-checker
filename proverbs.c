@@ -31,6 +31,7 @@ int main(int argc, char *argv[]) {
   printf("Time is money.\n");
   printf("The early bird catches the worm.\n");
   printf("One good turn deserves another.\n");
+  printf("laugh and grow fat.\n")
 
   return 0;
 }
