@@ -35,6 +35,6 @@ int main(int argc, char *argv[]) {
   printf("Boys be ambitious.\n");
   printf("If you can dream it, you can do it.\n");
   printf("Indecision is often worse than wrong action.\n");
-
+  printf("There is always light behind the clouds.")
   return 0;
 }
