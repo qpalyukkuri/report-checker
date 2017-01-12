@@ -36,6 +36,7 @@ int main(int argc, char *argv[]) {
   printf("If you can dream it, you can do it.\n");
   printf("Indecision is often worse than wrong action.\n");
   printf("Love the life you live. Live the life you love.\n");
+  printf("Evrything is practice.");
 
   return 0;
 }
