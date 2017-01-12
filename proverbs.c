@@ -38,6 +38,7 @@ int main(int argc, char *argv[]) {
   printf("Love the life you live. Live the life you love.\n");
   printf("Evrything is practice\n");
   printf("Everything is practice.\n");
+  printf("There is always light behind the clouds\n.");
 
   return 0;
 }
