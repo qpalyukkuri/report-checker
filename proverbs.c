@@ -31,10 +31,10 @@ int main(int argc, char *argv[]) {
   printf("Time is money.\n");
   printf("The early bird catches the worm.\n");
   printf("One good turn deserves another.\n");
-  printf("laugh and grow fat.\n");
+  printf("laugh and grow fat.\n")
   printf("Boys be ambitious.\n");
   printf("If you can dream it, you can do it.\n");
   printf("Indecision is often worse than wrong action.\n");
-  printf("There is always light behind the clouds.\n");
+  printf("There is always light behind the clouds\n.");
   return 0;
 }
